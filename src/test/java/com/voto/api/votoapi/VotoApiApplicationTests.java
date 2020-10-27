@@ -8,6 +8,7 @@ class VotoApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
